@@ -1,0 +1,10 @@
+{
+  "project": "FASHION_MNIST",
+  "category": "CLOTHING_RETAIL",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\CLOTHING_RETAIL\\FASHION_MNIST",
+  "status": "failed",
+  "reason": "unreadable BENCH.json: 'metrics'",
+  "files_count": null,
+  "lines_of_code": null,
+  "sha": null
+}
